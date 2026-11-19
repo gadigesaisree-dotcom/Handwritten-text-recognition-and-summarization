@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision
+transformers>=4.30.0
+opencv-python>=4.8.0
+numpy
+pandas
+gradio>=4.0.0
+evaluate
+jiwer
+rouge-score
+pyspellchecker
+Pillow
+sentencepiece
+pyyaml

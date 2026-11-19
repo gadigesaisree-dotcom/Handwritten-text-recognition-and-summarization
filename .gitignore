@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# PyTorch / HuggingFace model cache
+*.pt
+*.pth
+*.bin
+*.safetensors
+trocr_model/
+runs/
+outputs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code
+.vscode/
+
+# Gradio temp files
+.gradio/
+gradio_cached_examples/
+flagged/
+
+# Data files (large)
+data/
+*.csv
+*.h5
+*.hdf5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# References (PDFs) - optional: comment out if you want to include them
+References/p1.pdf
+References/p2.pdf
+References/p3.pdf
+References/p4.pdf
+References/p5.pdf
+References/p7.pdf
+References/p8.pdf
+
+# Screenshots (optional)
+Screenshot*.png
+
+# Logs
+*.log

@@ -1,0 +1,20 @@
+dataset:
+  csv_path: "data/my_iam_dataset.csv"
+  img_dir_prefix: "data" # We'll extract relative path from csv
+  image_height: 128
+  image_width: 512
+
+models:
+  crnn:
+    hidden_size: 256
+    vocab_size: 80 # Will dynamically update based on chars in dataset
+  trocr:
+    pretrained_model: "microsoft/trocr-base-handwritten"
+  summarization:
+    pretrained_model: "google/flan-t5-base"
+
+training:
+  batch_size: 8
+  epochs: 10
+  learning_rate: 0.0001
+  device: "cuda" # or "cpu"

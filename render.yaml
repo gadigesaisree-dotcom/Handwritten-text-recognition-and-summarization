@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: handwritten-text-recognition-summarization
+    runtime: python
+    buildCommand: pip install -r Project/requirements.txt
+    startCommand: python Project/app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+    plan: free
