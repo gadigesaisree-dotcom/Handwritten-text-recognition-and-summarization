@@ -125,7 +125,7 @@ NLPproject/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/gadigesaisree-dotcom/Handwritten-text-recognition-and-summarization.git
+git clone https://github.com/gadigesaisree-dotcom/sreeshanth.git
 cd Handwritten-to-text-recognition-and-summarization
 ```
 
@@ -313,9 +313,9 @@ model link: https://handwritten-text-recognition-ka67.onrender.com
 
 ## 👤 Author
 
-**Tagore C**  
+**sreeshanth**  
 Final Year Project — Natural Language Processing  
-GitHub: [@TagoreC](https://github.com/TagoreC)
+GitHub: [@sreeshanth](https://github.com/gadigesaisree-dotcom)
 
 ---
 
