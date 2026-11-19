@@ -125,7 +125,7 @@ NLPproject/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/gadigesaisree-dotcom/sreeshanth.git
+git clone https://github.com/gadigesaisree-dotcom/Handwritten-text-recognition-and-summarization.git
 cd Handwritten-to-text-recognition-and-summarization
 ```
 
